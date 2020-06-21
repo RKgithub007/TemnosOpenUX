@@ -1,0 +1,17 @@
+{
+  "buildDir": "build",
+  "domainModelFile": "transact-schema.json",
+  "appDef": {
+    "name": "rbhardwajg2o_com ",
+    "formCode": "rbhardwajg2o_com-",
+    "clientCode": "rbhardwajg2o_com ",
+    "transactInsights": false,
+    "formVersion": {
+      "versionNumber": "0.1.0",
+      "formDataEncryption": true,
+      "formDataConfig": {
+        "saveChallengeXPath": "//Applicant/LastName"
+      }
+    }
+  }
+}
